@@ -1,3 +1,7 @@
+## Note
+This is the 2021 version of the Contract Approval demo application (ot2-contract-approval-demo-app). This version does not use the OpenText Developer Cloud extension s for VS Code. 
+The newest versino of this tutorial can be found here: https://github.com/opentext/demo-contract-approval-app
+
 OT2 Contract Approval Demo Application
 --------
 
